@@ -271,10 +271,10 @@ enableGitInfo = false
 #  url = "#publications_selected"
 #  weight = 2
 
-[[menu.main]]
-  name = "Working papers"
-  url = "#working_papers"
-  weight = 3
+#[[menu.main]]
+#  name = "Working papers"
+#  url = "#working_papers"
+#  weight = 3
 
 #[[menu.main]]
 #  name = "Projects"
