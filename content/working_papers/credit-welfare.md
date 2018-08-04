@@ -1,9 +1,9 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Borrowing as a Social Safety Net? How Credit Markets Substitute for Welfare States and Influence Social Policy Preferences"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Andreas", "Wiedemann"]
 +++
