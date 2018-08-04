@@ -17,24 +17,22 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Political Science"
+  institution = "Massachusetts Institute of Technology"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in International Political Economy"
+  institution = "London School of Economics"
+  year = 2011
+
+[[education.courses]]
+  course = "BA in Government and Public Policy"
+  institution = "University of Passau, Germany"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Andreas Wiedemann is a Postdoctoral Prize Research Fellow in Politics at Nuffield College, Oxford University. I study political economy and comparative politics in advanced democracies, focusing on financial markets, wealth inequality, and social policies. My current research explores the political causes and consequences of financial insecurity, household debt, and support for the welfare state.
