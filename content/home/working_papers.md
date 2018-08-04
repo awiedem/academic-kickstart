@@ -2,7 +2,7 @@
 # Working paper widget
 # This widget displays recent posts from `content/working_papers/`.
 widget = "working_papers"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
 title = "Working papers"
