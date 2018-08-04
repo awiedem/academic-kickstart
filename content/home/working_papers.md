@@ -1,6 +1,6 @@
 +++
-# Recent Posts widget.
-# This widget displays recent posts from `content/post/`.
+# Working paper widget
+# This widget displays recent posts from `content/working_papers/`.
 widget = "posts"
 active = true
 date = 2016-04-20T00:00:00
