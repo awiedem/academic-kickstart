@@ -57,21 +57,21 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Andreas Wiedemann"
+  role = "Postdoctoral Prize Research Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Nuffield College, Oxford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "andreas.wiedemann@nuffield.ox.ac.uk"
+  address = "Nuffield College, New Road, Oxford, OX1 1NF, United Kingdom"
+ # office_hours = "Monday 10:00 to 13:00 or email for appointment"
+ # phone = "888 888 88 88"
+ # skype = "echo123"
+ # telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -99,11 +99,11 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+ # map = 0
+ # map_api_key = ""
+ # latitude = "37.4275"
+ # longitude = "-122.1697"
+ # zoom = 15
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
